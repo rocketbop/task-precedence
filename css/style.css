@@ -1,0 +1,17 @@
+/* 
+    Document   : style.css
+    Created on : 20-Feb-2014, 19:05:44
+    Author     : paulbyrne
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+div.application {
+    height:                 300px;
+    width:                  250px;
+    background-color:       hsla(10, 10%, 85%, 1);
+    margin-bottom:         2em; 
+    text-align:             center;
+    display:                inline-flex;
+}
+
